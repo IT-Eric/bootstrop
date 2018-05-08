@@ -1,0 +1,2 @@
+# bootstrop
+用bootstrop和响应式布局网格系统做的自适应页面，页面简单大方。利用jquery插件和animate动画库做的页面动画。
